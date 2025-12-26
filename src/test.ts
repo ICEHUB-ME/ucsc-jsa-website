@@ -9,5 +9,5 @@ export const test = () => {
         return arg;
     }
 
-    foo<string>("Hello, World!");
+    foo<string>("Hello, World");
 }
