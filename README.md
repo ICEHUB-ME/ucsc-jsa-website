@@ -7,7 +7,6 @@ Official homepage for UCSC JSA.
 - Vite
 - Tailwind CSS
 - shadcn/ui
-- Hosted on Vercel
 
 ## Local Development
 1. Install Node.js (LTS)
